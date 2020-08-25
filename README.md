@@ -69,10 +69,10 @@ Recommended:
 * Make: Electronics by Charles Pratt ([O’Reilly](https://www.oreilly.com/library/view/make-electronics/9781449377267/))
 
 Optional:
-* [Practical Electronics for Inventors](https://www.amazon.com/Practical-Electronics-Inventors-Fourth-Scherz/dp/1259587541)
+* [Practical Electronics for Inventors](https://www.amazon.com/Practical-Electronics-Inventors-Fourth-Scherz/dp/1259587541), by Paul Scherz and Simon Monk
 * [Making Things Move](http://www.makingthingsmove.com/), by Dustyn Roberts
 * [Interaction of Color](https://cuny-cc.primo.exlibrisgroup.com/permalink/01CUNY_CC/a8a5t6/alma990009998350106138), by Josef Albers
-* [The Art of Interactive Design](https://cuny-cc.primo.exlibrisgroup.com/permalink/01CUNY_CC/cqbe6c/alma991027550328006121), Chris Crawford
+* [The Art of Interactive Design](https://cuny-cc.primo.exlibrisgroup.com/permalink/01CUNY_CC/cqbe6c/alma991027550328006121), by Chris Crawford
 
 Additional resources:
 * Dan Shiffman’s [Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) Youtube Channel
