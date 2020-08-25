@@ -66,7 +66,7 @@ There is no required textbook for this class, however the following texts are st
 
 Recommended:
 * [Learn Electronics with Arduino: An Illustrated Beginner's Guide](https://www.amazon.com/Learn-Electronics-Arduino-Illustrated-Technology-ebook/dp/B075TXR9ZL), by Jody Culkin and Eric Hagan
-* Make: Electronics by Charles Pratt ([O'Reilly](https://www.oreilly.com/library/view/make-electronics/9781449377267/)]
+* Make: Electronics by Charles Pratt ([O’Reilly](https://www.oreilly.com/library/view/make-electronics/9781449377267/))
 
 Optional:
 * [Practical Electronics for Inventors](https://www.amazon.com/Practical-Electronics-Inventors-Fourth-Scherz/dp/1259587541)
@@ -82,7 +82,7 @@ Additional resources:
 * [Arduino Playground](https://playground.arduino.cc/uploads/Main/arduino_comic_v0004.pdf)
 * [Physical Computing Reference](https://github.com/jfunky/physical-computing-reference/blob/master/README.md)
 
-Any reading required for a particular week will be clearly stated in the homework section of the weekly schedule.
+Any reading required for a particular week will be clearly stated in the homework section of the [weekly schedule](https://github.com/jfunky/diap-creativecomputing-fa2020/blob/master/Schedule.md).
 
 ### Grading & Attendance Policy
 ##### Grade Breakdown:
@@ -102,3 +102,5 @@ If you are a student with a disability requesting accommodations, please contact
 
 #### Health & Wellness
 CCNY also provides [student health](https://www.ccny.cuny.edu/shs) and [counseling services](https://www.ccny.cuny.edu/counseling).
+
+### [Weekly Schedule](https://github.com/jfunky/diap-creativecomputing-fa2020/blob/master/Schedule.md)
