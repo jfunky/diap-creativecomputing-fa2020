@@ -11,7 +11,7 @@
     - Choose an artwork from the [Artist and Computer archive](https://www.atariarchives.org/artist/), and recreate your own version. Use the work as a template or as inspiration for a Processing sketch. Credit the original artist in your code/documentation with artist name, title of work, and date.
 * Resources: 
     - Learning Processing, ch.1-2
-    - The Coding Train [Processing Environment tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Yo4VdQ4ZTtqRQ1AE4t_Ep9)
+    - The Coding Train [Drawing with Pixels](https://www.youtube.com/watch?v=a562vsSI2Po&list=PLRqwX-V7Uu6bsRnSEJ9tRn4V_XCGXovs4) and [Processing Environment tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Yo4VdQ4ZTtqRQ1AE4t_Ep9)
     - See also:
       - Getting Started With p5.js, ch.1-3
       - p5.js reference: [Coordinate System & Shapes](https://p5js.org/learn/coordinate-system-and-shapes.html)
@@ -71,7 +71,6 @@
 * Resources: 
     - Learning Processing, ch.15-16, 20
     - Getting Started With p5.js, ch.7
-    - The Coding Train Video and Pixels and Sound Tutorials
 
 #### Week 7: October 7
 * In Class: Midterm presentations 
