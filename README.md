@@ -1,5 +1,5 @@
 # diap-creativecomputing-fa2020
-Class repository for CCNY/CUNY Creative Coding Fall 2020 class
+Class repository for CCNY/CUNY Creative Computing Fall 2020 class
 
 # Syllabus
 ###### City College of New York (CCNY)
@@ -10,7 +10,7 @@ Class repository for CCNY/CUNY Creative Coding Fall 2020 class
 #### --
 
 ###### Professor Jasmine Soltani (she/her)
-###### Office hours: Tuesdays from 6-7pm or email me
+###### Office hours: [Tuesdays from 6-7pm](https://calendar.google.com/calendar/selfsched?sstoken=UU5zeHE4U25Rc2NHfGRlZmF1bHR8OTIxZDRlNTYwNjBiNTg1Mjg4MmZjYzkwM2ZjYTBhODY) or email me
 ###### Contact: jsoltani@ccny.cuny.edu
 #### --
 
