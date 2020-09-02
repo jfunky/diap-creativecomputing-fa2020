@@ -24,10 +24,10 @@
     - Randomness
     - Color
 * Assignment: Create a new sketch or build on your sketch from last week, where there is a change in your color, animation, or design based on mouse or keyboard input. Incorporate at least one random element that changes over time, with user input, or when the sketch loads.
+    - Read [A short history of color theory](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html) & [Color models and color space](https://programmingdesignsystems.com/color/color-models-and-color-spaces/index.html) by Rune Madsen
 * Resources: 
     - Learning Processing, ch.3-4
     - The Coding Train [Interaction](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6by61pbhdvyEpIeymlmnXzD) & [Variables](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFNOgoIMSbSYOkKNTo89uf) Tutorials
-    - [A short history of color theory](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html) & [Color models and color space](https://programmingdesignsystems.com/color/color-models-and-color-spaces/index.html) by Rune Madsen
     - [Git & Github for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
     - See also:
       - Getting Started With p5.js, ch.4-5
