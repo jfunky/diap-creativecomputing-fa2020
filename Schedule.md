@@ -40,10 +40,11 @@
     - Boolean variables
     - Logical operators
 * Assignment: 
-    - Create a sketch with at least two distinct states. 
+    - Create a sketch with at least one custom interface element (ie. rollover button). 
 * Resources: 
-    - Learning Processing, ch.5
+    - Learning Processing, ch.5 (conditionals), ch.13 (debugging), ch. 14 (transformations)
     - The Coding Train [Conditionals](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YqykuLs00261JCqnL_NNZ_) Tutorials
+    - The Coding Train [Debugger tutorial](https://www.youtube.com/watch?v=03WXKb422w0&ab_channel=TheCodingTrain) (starts at 9:25)
     - See also:
       - Getting Started With p5.js, ch.4-5
       - p5.js reference: [Program Flow](https://p5js.org/learn/program-flow.html)
@@ -63,6 +64,7 @@
 * Assignment: Design a sketch in an object-oriented way. Create at least one object and call its method/s at least twice (or it two ways). If you are refactoring code from a previous week, add to it in some way.
 * Resources: 
     - Learning Processing, ch.9, 13-14
+    - The Coding Train [Object-Oriented Programming](https://www.youtube.com/watch?v=YcbcfkLzgvs&list=PLRqwX-V7Uu6bb7z2IJaTlzwzIg_5yvL4i&ab_channel=TheCodingTrain) tutorial
     - See also: Getting Started with p5.js, ch.6,8 (Note that Ch. 10 of Getting Started with p5.js is outdated!)
 
 #### Week 6: September 30
