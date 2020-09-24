@@ -61,7 +61,7 @@
 
 #### Week 5: September 23
 * In Class: Objects & Classes
-* Assignment: Design a sketch in an object-oriented way. Create at least one object and call its method/s at least twice (or it two ways). If you are refactoring code from a previous week, add to it in some way.
+* Assignment: Midtern assignment (due October 7): Design a sketch in an object-oriented way. Create at least one object and call its method/s at least twice (or it two ways). If you are refactoring code from a previous week, add to it in some way.
 * Resources: 
     - Learning Processing, ch.9, 13-14
     - The Coding Train [Object-Oriented Programming](https://www.youtube.com/watch?v=YcbcfkLzgvs&list=PLRqwX-V7Uu6bb7z2IJaTlzwzIg_5yvL4i&ab_channel=TheCodingTrain) tutorial
