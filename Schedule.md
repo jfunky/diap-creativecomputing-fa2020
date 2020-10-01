@@ -69,13 +69,14 @@
 
 #### Week 6: September 30
 * In Class: Media: Images, Video, Sound
-* Assignment: Work on Midterm project
+* Assignment: Work on Midterm project: this can be a sketch that builds on previous weeks or is entirely new. The only requirement to include object-oriented principles from the past 2 weeks.
 * Resources: 
     - Learning Processing, ch.15-16, 20
+    - The Coding Train [Image Processing](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YB9x6f23CBftiyx0u_5sO9) tutorials
     - Getting Started With p5.js, ch.7
 
 #### Week 7: October 7
-* In Class: Midterm presentations 
+* In Class: Midterm presentations: 15 minutes total per student. Please present for no longer than 5 minutes to leave time for feedback and discussion. 
 * Assignment: 
     - Read [Processing Transition](https://github.com/processing/p5.js/wiki/Processing-transition) and [p5.js overview](https://github.com/processing/p5.js/wiki/p5.js-overview)
     - Create an account on the [p5 web editor](https://editor.p5js.org/)
