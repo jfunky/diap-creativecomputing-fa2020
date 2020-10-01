@@ -1,22 +1,22 @@
-class Particle {
+class mouseSquare {
   //variables
   float xpos ;
   float ypos ;
   
   //constructor
-  Particle(float x, float y){
+  mouseSquare(float x, float y){
     xpos = x ;
     ypos = y ;
   }
   
   //methods
   void display(){
-    fill(0, 0, 255);
-    ellipse(xpos, ypos, 5, 9);
+    rect(xpos, ypos, 40, 40);
   }
   
-  void fall(){
-    ypos = ypos + 1 ;
+  void rise(){
+    ypos = ypos - 1 ;
+    //print(ypos);
   }
   
 }

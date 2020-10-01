@@ -3,6 +3,8 @@
 //variables for columns & rows
 coolRect coolRects[][] = new coolRect[10][10];
 
+//int myInts[] = new int[20] ;
+
 void setup(){
   size(360,360);
   //frameRate(1);

@@ -20,21 +20,11 @@ void draw(){
   for (int i=0; i < squares.length ; i++){
     if (squares[i] != null){
       squares[i].display();
-      
+      squares[i].rise(); 
       
       //check against each element of the array
       for (int j=0; j<raindrops.length; j++){
         squares[i].rain(raindrops[j]);
-        println(squares[i].rain(raindrops[j]));
-        
-        //in-class exploration of directionality &
-        //boolean methods --
-        //if (squares[i].rain(raindrops[j])) {
-        //  squares[i].rise(1);
-        //}
-        //else {
-        //  squares[i].rise(-1);
-        //}
       }
       
     }

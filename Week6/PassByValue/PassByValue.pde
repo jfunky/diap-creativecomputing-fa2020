@@ -7,24 +7,22 @@
 float xval = 100 ;
 
 //objects work like "pass by reference"
-Particle p ;
 Particle q ;
 
 void setup(){
   newVal(xval);
+  //xval = newVal(xval);
   println("value of xval: " + xval);
   
-  p = new Particle(50, 100);
-  q = new Particle(150, 250);
-  
-  p.change(q);
-  
+  q = new Particle(150, 250);  
+  newVal(q.x);
   println("value of q.x: " + q.x);
   
 }
 
 void newVal(float var){
   var = var * 2 ;
+  //return var ;
   println("value of var: " + var);
 }
 
