@@ -88,8 +88,16 @@
     - HTML
     - CSS
     - Javascript basics/p5.js
+    - Examples:
+        - [First P5 example](https://editor.p5js.org/jas920/sketches/tzhTBQVoW)
+        - [Javascript data types](https://editor.p5js.org/jas920/sketches/RDaw4QwMZ) (new!)
+        - [Load image](https://editor.p5js.org/jas920/sketches/7YYTKQhcU)
+        - [Load sound & use sound library methods](https://editor.p5js.org/jas920/sketches/1AT27vb3S)
+        - [Rotation with sine & cosine](https://editor.p5js.org/jas920/sketches/RmI5XLerW)
+        - [Rotating lollipop functions](https://editor.p5js.org/jas920/sketches/MVy_CMp88)
+        - [Planet class](https://editor.p5js.org/jas920/sketches/-Me38IwU0)
 * Assignment:
-    - Create a website with some HTML, CSS, & p5j.js. You are welcome to translate an earlier Processing sketch to p5.js for this assignment.
+    - Create a website with some HTML, CSS, & p5.js. You are welcome to translate an earlier Processing sketch to p5.js for this assignment.
 * Resources: 
     - Make: Getting Started with p5.js Ch. 13
     - [Mozilla HTML reference](https://developer.mozilla.org/en-US/docs/Web/HTML)
