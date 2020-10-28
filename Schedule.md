@@ -109,7 +109,7 @@
 * In Class: 
     - The Document Object Model (DOM)
     - Understanding p5.js DOM elements 
-    - Javascript events, callbacks, and promises
+    - Javascript events, callbacks, and anonymous functions
 * Assignment:
     - Create a p5.js sketch that incorporate input from users through: buttons, sliders, text input, the webcam, or the microphone.
 * Resources: 
