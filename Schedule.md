@@ -110,6 +110,12 @@
     - The Document Object Model (DOM)
     - Understanding p5.js DOM elements 
     - Javascript events, callbacks, and anonymous functions
+    - Examples:
+        - [DOM: buttons, sliders, & text](https://editor.p5js.org/jas920/sketches/XwwALNjRw)
+        - [Capture video](https://editor.p5js.org/jas920/sketches/L1T-3QFQp)
+        - [Mic & Play buttons](https://editor.p5js.org/jas920/sketches/DiZUV8TiG)
+        - [P5 Pixel array](https://editor.p5js.org/jas920/sketches/001bQY7a1)
+        - [Image pixelation](https://editor.p5js.org/jas920/sketches/0Bt3DDe92)
 * Assignment:
     - Create a p5.js sketch that incorporate input from users through: buttons, sliders, text input, the webcam, or the microphone.
 * Resources: 
@@ -122,7 +128,7 @@
     - Introduction to Arduino
     - Introduction to electronics & circuits
 * Assignment:
-    - Create a circuit that uses a button or a switch and either (1) prints the value to the serial monitor or (2) affects an LED.
+    - Brainstorm final project ideas
 * Resources: 
     - [Arduino Language Reference](https://www.arduino.cc/reference/en/)
     - [Arduino Variable Declaration reference](https://www.arduino.cc/en/Reference/VariableDeclaration)
