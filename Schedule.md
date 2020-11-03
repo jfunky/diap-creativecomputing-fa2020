@@ -69,13 +69,14 @@
 
 #### Week 6: September 30
 * In Class: Media: Images, Video, Sound
-* Assignment: Work on Midterm project
+* Assignment: Work on Midterm project: this can be a sketch that builds on previous weeks or is entirely new. The only requirement to include object-oriented principles from the past 2 weeks.
 * Resources: 
     - Learning Processing, ch.15-16, 20
+    - The Coding Train [Image Processing](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YB9x6f23CBftiyx0u_5sO9) tutorials
     - Getting Started With p5.js, ch.7
 
 #### Week 7: October 7
-* In Class: Midterm presentations 
+* In Class: Midterm presentations: 15 minutes total per student. Please present for no longer than 5 minutes to leave time for feedback and discussion. 
 * Assignment: 
     - Read [Processing Transition](https://github.com/processing/p5.js/wiki/Processing-transition) and [p5.js overview](https://github.com/processing/p5.js/wiki/p5.js-overview)
     - Create an account on the [p5 web editor](https://editor.p5js.org/)
@@ -87,8 +88,16 @@
     - HTML
     - CSS
     - Javascript basics/p5.js
+    - Examples:
+        - [First P5 example](https://editor.p5js.org/jas920/sketches/tzhTBQVoW)
+        - [Javascript data types](https://editor.p5js.org/jas920/sketches/RDaw4QwMZ) (new!)
+        - [Load image](https://editor.p5js.org/jas920/sketches/7YYTKQhcU)
+        - [Load sound & use sound library methods](https://editor.p5js.org/jas920/sketches/1AT27vb3S)
+        - [Rotation with sine & cosine](https://editor.p5js.org/jas920/sketches/RmI5XLerW)
+        - [Rotating lollipop functions](https://editor.p5js.org/jas920/sketches/MVy_CMp88)
+        - [Planet class](https://editor.p5js.org/jas920/sketches/-Me38IwU0)
 * Assignment:
-    - Create a website with some HTML, CSS, & p5j.js. You are welcome to translate an earlier Processing sketch to p5.js for this assignment.
+    - Create a website with some HTML, CSS, & p5.js. You are welcome to translate an earlier Processing sketch to p5.js for this assignment.
 * Resources: 
     - Make: Getting Started with p5.js Ch. 13
     - [Mozilla HTML reference](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -100,7 +109,13 @@
 * In Class: 
     - The Document Object Model (DOM)
     - Understanding p5.js DOM elements 
-    - Javascript events, callbacks, and promises
+    - Javascript events, callbacks, and anonymous functions
+    - Examples:
+        - [DOM: buttons, sliders, & text](https://editor.p5js.org/jas920/sketches/XwwALNjRw)
+        - [Capture video](https://editor.p5js.org/jas920/sketches/L1T-3QFQp)
+        - [Mic & Play buttons](https://editor.p5js.org/jas920/sketches/DiZUV8TiG)
+        - [P5 Pixel array](https://editor.p5js.org/jas920/sketches/001bQY7a1)
+        - [Image pixelation](https://editor.p5js.org/jas920/sketches/0Bt3DDe92)
 * Assignment:
     - Create a p5.js sketch that incorporate input from users through: buttons, sliders, text input, the webcam, or the microphone.
 * Resources: 
@@ -113,7 +128,7 @@
     - Introduction to Arduino
     - Introduction to electronics & circuits
 * Assignment:
-    - Create a circuit that uses a button or a switch and either (1) prints the value to the serial monitor or (2) affects an LED.
+    - Brainstorm final project ideas
 * Resources: 
     - [Arduino Language Reference](https://www.arduino.cc/reference/en/)
     - [Arduino Variable Declaration reference](https://www.arduino.cc/en/Reference/VariableDeclaration)
