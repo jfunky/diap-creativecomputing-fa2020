@@ -139,9 +139,10 @@
 #### Week 11: November 11
 * In Class: 
     - Digital and analog sensors
-    - Serial Input
+    - Sensor research activity
+    - Serial Input to p5.js & Processing
 * Assignment:
-    - Create a circuit that uses some sensor and sends the serial data to a p5.js or Processing sketch.
+    - Prepare to talk about your final project idea in next class. Elements not required but that you might consider: drawings, references, sample code, bill of materials (BOM), project plan. 
 * Resources: 
     - ITP Physical Computing [Sensor Basics](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
     - ITP Labs [Analog Input](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/analog-in-with-an-arduino/), [Introduction to Serial](https://itp.nyu.edu/physcomp/lab-intro-to-serial-communications/), [Arduino to p5.js](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-input-to-the-p5-js-ide/), [Arduino to Processing](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/serial-output-from-an-arduino/)
