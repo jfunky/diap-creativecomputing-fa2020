@@ -141,6 +141,8 @@
     - Digital and analog sensors
     - Sensor research activity
     - Serial Input to p5.js & Processing
+    - [Read digital serial data (string)](https://editor.p5js.org/jas920/sketches/aGMPozG_r) (use with DigitalReadSerial example)
+    - [Read analog serial data (bytes)](https://editor.p5js.org/jas920/sketches/j9ODetdBS) (use with AnalogReadSerial example and Serial.write)
 * Assignment:
     - Prepare to talk about your final project idea in next class. Elements not required but that you might consider: drawings, references, sample code, bill of materials (BOM), project plan. 
 * Resources: 
@@ -151,6 +153,8 @@
 * In Class: 
     - Serial Output
     - Final project ideas
+    - [P5 analog output to Arduino](https://editor.p5js.org/jas920/sketches/K7WZ7zuZG)
+    - [P5 read 2 values](https://editor.p5js.org/jas920/sketches/EVYwhW1ae)
 * Assignment: Work on Final Project
 * Resources: 
     - ITP Labs [Serial output from p5.js](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-output-from-p5-js/), [Two-way Serial Communication with p5.js](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/two-way-duplex-serial-communication-using-p5js/), [Two-way Serial Communication with Processing](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/two-way-duplex-serial-communication-using-an-arduino/) 
