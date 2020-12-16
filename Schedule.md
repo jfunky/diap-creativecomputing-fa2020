@@ -162,11 +162,11 @@
 #### NO CLASS NOVEMBER 25: CLASSES ON A FRIDAY SCHEDULE
 
 #### Week 13: December 2
-* In Class: Individual meetings
+* In Class: [Javascript libraries Part 1](https://docs.google.com/presentation/d/1bZ-zeyokAw0NHL6P8B-prGLosqHuvxHk40zk8Ca2zRQ/edit?usp=sharing) & Individual meetings
 * Assignment: Work on Final Project
 
 ####  Week 14: December 9
-* In Class: Individual meetings
+* In Class: [Javascript libraries Part 2](https://docs.google.com/presentation/d/1bZ-zeyokAw0NHL6P8B-prGLosqHuvxHk40zk8Ca2zRQ/edit?usp=sharing) & Individual meetings
 * Assignment: Work on Final Project
 
 #### Week 15: December 16
