@@ -79,6 +79,7 @@ Additional resources:
 * Processing [tutorials](https://processing.org/tutorials/), [examples](https://processing.org/examples/), and [reference](https://processing.org/reference/)
 * P5.js [tutorials](https://p5js.org/learn/), [examples](https://p5js.org/examples/), and [reference](https://p5js.org/reference/)
 * The Nature of Code ([free online](https://natureofcode.com/book/)) by Dan Shiffman
+* [Javascrip & JQuery](http://javascriptbook.com/) by Jon Duckett
 * [Arduino Playground](https://playground.arduino.cc/uploads/Main/arduino_comic_v0004.pdf)
 * [Physical Computing Reference](https://github.com/jfunky/physical-computing-reference/blob/master/README.md)
 
